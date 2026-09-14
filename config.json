@@ -1,0 +1,18 @@
+{
+    "seed": 2,
+    "num_residents": 12,
+    "num_edges": 20,
+    "max_transmission_prob": 1.0,
+    "vulnerability_range": [0.1, 1.0],
+    "dosage_range": [1, 5],
+    "graph_type": "list",
+    "risk_solver": "task_b",
+    "time_horizon": 10,
+    "simulations": 1000,
+    "total_doses": 10,
+    "run_vaccine": true,
+    "vaccine_strategy": "task_d",
+    "visualise": true,
+    "visual_filename": "outbreak_list",
+    "print_struct": false
+}

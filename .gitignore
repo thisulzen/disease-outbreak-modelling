@@ -1,0 +1,30 @@
+# Local study materials — not part of the submission
+lectures /
+tutorials/
+AA_Take-home_Assignment_Spec_final.pdf
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS metadata
+.DS_Store
+
+# Intermediate report build files
+_tmp.html
+report_temp.html
+report.md
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+
+# Report build artefacts
+*.aux
+*.log
+
+# Virtual environments
+.venv/
+venv/
