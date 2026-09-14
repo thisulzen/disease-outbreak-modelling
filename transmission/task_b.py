@@ -3,7 +3,7 @@
 # Dynamic programming solution for computing exact
 # infection risk over a planning horizon of T days.
 #
-# __author__ = 'Thisul Dilmal'
+# __author__ = 'Thisul Deven'
 # __project__ = 'Modelling a Disease Outbreak'
 # __copyright__ = 'Copyright 2026, RMIT University'
 # -------------------------------------------------

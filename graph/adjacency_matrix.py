@@ -2,7 +2,7 @@
 # EDIT THIS FILE TO IMPLEMENT TASK A.
 # Adjacency matrix implementation of the Graph ABC.
 #
-# __author__ = 'Thisul Dilmal'
+# __author__ = 'Thisul Deven'
 # __project__ = 'Modelling a Disease Outbreak'
 # __copyright__ = 'Copyright 2026, RMIT University'
 # -------------------------------------------------
